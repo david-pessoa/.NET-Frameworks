@@ -1,0 +1,8 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Pizza order\Pizza order\bin\Debug\Pizza order.exe.config
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Pizza order\Pizza order\bin\Debug\Pizza order.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Pizza order\Pizza order\bin\Debug\Pizza order.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Pizza order\Pizza order\obj\Debug\Pizza order.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Pizza order\Pizza order\obj\Debug\Pizza order.csproj.SuggestedBindingRedirects.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Pizza order\Pizza order\obj\Debug\Pizza order.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Pizza order\Pizza order\obj\Debug\Pizza order.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Pizza order\Pizza order\obj\Debug\Pizza order.pdb

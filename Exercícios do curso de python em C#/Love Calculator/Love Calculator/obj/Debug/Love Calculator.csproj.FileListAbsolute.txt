@@ -1,0 +1,8 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Love Calculator\Love Calculator\bin\Debug\Love Calculator.exe.config
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Love Calculator\Love Calculator\bin\Debug\Love Calculator.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Love Calculator\Love Calculator\bin\Debug\Love Calculator.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Love Calculator\Love Calculator\obj\Debug\Love Calculator.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Love Calculator\Love Calculator\obj\Debug\Love Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Love Calculator\Love Calculator\obj\Debug\Love Calculator.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Love Calculator\Love Calculator\obj\Debug\Love Calculator.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Love Calculator\Love Calculator\obj\Debug\Love Calculator.pdb

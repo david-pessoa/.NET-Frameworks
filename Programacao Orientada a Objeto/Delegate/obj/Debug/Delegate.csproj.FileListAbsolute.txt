@@ -1,0 +1,8 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Delegate\bin\Debug\Delegate.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Delegate\bin\Debug\Delegate.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Delegate\obj\Debug\Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Delegate\obj\Debug\Delegate.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Delegate\obj\Debug\Delegate.pdb

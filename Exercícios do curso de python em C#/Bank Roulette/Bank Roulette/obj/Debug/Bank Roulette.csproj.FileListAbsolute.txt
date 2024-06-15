@@ -1,0 +1,8 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Bank Roulette\Bank Roulette\bin\Debug\Bank Roulette.exe.config
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Bank Roulette\Bank Roulette\bin\Debug\Bank Roulette.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Bank Roulette\Bank Roulette\bin\Debug\Bank Roulette.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Bank Roulette\Bank Roulette\obj\Debug\Bank Roulette.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Bank Roulette\Bank Roulette\obj\Debug\Bank Roulette.csproj.SuggestedBindingRedirects.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Bank Roulette\Bank Roulette\obj\Debug\Bank Roulette.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Bank Roulette\Bank Roulette\obj\Debug\Bank Roulette.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Bank Roulette\Bank Roulette\obj\Debug\Bank Roulette.pdb

@@ -1,0 +1,15 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Paint Area Calculator\Paint Area Calculator\obj\Debug\net6.0\Paint Area Calculator.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Paint Area Calculator\Paint Area Calculator\obj\Debug\net6.0\Paint Area Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Paint Area Calculator\Paint Area Calculator\obj\Debug\net6.0\Paint Area Calculator.AssemblyInfoInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Paint Area Calculator\Paint Area Calculator\obj\Debug\net6.0\Paint Area Calculator.AssemblyInfo.cs
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Paint Area Calculator\Paint Area Calculator\obj\Debug\net6.0\Paint Area Calculator.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Paint Area Calculator\Paint Area Calculator\bin\Debug\net6.0\Paint Area Calculator.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Paint Area Calculator\Paint Area Calculator\bin\Debug\net6.0\Paint Area Calculator.deps.json
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Paint Area Calculator\Paint Area Calculator\bin\Debug\net6.0\Paint Area Calculator.runtimeconfig.json
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Paint Area Calculator\Paint Area Calculator\bin\Debug\net6.0\Paint Area Calculator.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Paint Area Calculator\Paint Area Calculator\bin\Debug\net6.0\Paint Area Calculator.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Paint Area Calculator\Paint Area Calculator\obj\Debug\net6.0\Paint Area Calculator.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Paint Area Calculator\Paint Area Calculator\obj\Debug\net6.0\refint\Paint Area Calculator.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Paint Area Calculator\Paint Area Calculator\obj\Debug\net6.0\Paint Area Calculator.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Paint Area Calculator\Paint Area Calculator\obj\Debug\net6.0\Paint Area Calculator.genruntimeconfig.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Paint Area Calculator\Paint Area Calculator\obj\Debug\net6.0\ref\Paint Area Calculator.dll

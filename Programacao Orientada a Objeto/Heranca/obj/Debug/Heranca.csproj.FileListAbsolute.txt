@@ -1,0 +1,8 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Heranca\bin\Debug\Heranca.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Heranca\bin\Debug\Heranca.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Heranca\obj\Debug\Heranca.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Heranca\obj\Debug\Heranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Heranca\obj\Debug\Heranca.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Heranca\obj\Debug\Heranca.pdb

@@ -1,0 +1,8 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Average Height\Average Height\bin\Debug\Average Height.exe.config
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Average Height\Average Height\bin\Debug\Average Height.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Average Height\Average Height\bin\Debug\Average Height.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Average Height\Average Height\obj\Debug\Average Height.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Average Height\Average Height\obj\Debug\Average Height.csproj.SuggestedBindingRedirects.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Average Height\Average Height\obj\Debug\Average Height.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Average Height\Average Height\obj\Debug\Average Height.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Average Height\Average Height\obj\Debug\Average Height.pdb

@@ -1,0 +1,8 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Programacao Orientada a Objeto\bin\Debug\Programacao Orientada a Objeto.exe.config
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Programacao Orientada a Objeto\bin\Debug\Programacao Orientada a Objeto.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Programacao Orientada a Objeto\bin\Debug\Programacao Orientada a Objeto.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Programacao Orientada a Objeto\obj\Debug\Programacao Orientada a Objeto.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Programacao Orientada a Objeto\obj\Debug\Programacao Orientada a Objeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Programacao Orientada a Objeto\obj\Debug\Programacao Orientada a Objeto.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Programacao Orientada a Objeto\obj\Debug\Programacao Orientada a Objeto.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Programacao Orientada a Objeto\obj\Debug\Programacao Orientada a Objeto.pdb

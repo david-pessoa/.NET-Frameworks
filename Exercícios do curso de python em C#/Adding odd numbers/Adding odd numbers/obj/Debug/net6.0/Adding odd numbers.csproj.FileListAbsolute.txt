@@ -1,0 +1,15 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Adding odd numbers\Adding odd numbers\bin\Debug\net6.0\Adding odd numbers.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Adding odd numbers\Adding odd numbers\bin\Debug\net6.0\Adding odd numbers.deps.json
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Adding odd numbers\Adding odd numbers\bin\Debug\net6.0\Adding odd numbers.runtimeconfig.json
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Adding odd numbers\Adding odd numbers\bin\Debug\net6.0\Adding odd numbers.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Adding odd numbers\Adding odd numbers\bin\Debug\net6.0\Adding odd numbers.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Adding odd numbers\Adding odd numbers\obj\Debug\net6.0\Adding odd numbers.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Adding odd numbers\Adding odd numbers\obj\Debug\net6.0\Adding odd numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Adding odd numbers\Adding odd numbers\obj\Debug\net6.0\Adding odd numbers.AssemblyInfoInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Adding odd numbers\Adding odd numbers\obj\Debug\net6.0\Adding odd numbers.AssemblyInfo.cs
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Adding odd numbers\Adding odd numbers\obj\Debug\net6.0\Adding odd numbers.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Adding odd numbers\Adding odd numbers\obj\Debug\net6.0\Adding odd numbers.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Adding odd numbers\Adding odd numbers\obj\Debug\net6.0\refint\Adding odd numbers.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Adding odd numbers\Adding odd numbers\obj\Debug\net6.0\Adding odd numbers.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Adding odd numbers\Adding odd numbers\obj\Debug\net6.0\Adding odd numbers.genruntimeconfig.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Adding odd numbers\Adding odd numbers\obj\Debug\net6.0\ref\Adding odd numbers.dll

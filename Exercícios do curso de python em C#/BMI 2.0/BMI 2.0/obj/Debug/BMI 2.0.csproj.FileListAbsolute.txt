@@ -1,0 +1,8 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\BMI 2.0\BMI 2.0\obj\Debug\BMI 2.0.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\BMI 2.0\BMI 2.0\obj\Debug\BMI 2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\BMI 2.0\BMI 2.0\obj\Debug\BMI 2.0.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\BMI 2.0\BMI 2.0\bin\Debug\BMI 2.0.exe.config
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\BMI 2.0\BMI 2.0\bin\Debug\BMI 2.0.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\BMI 2.0\BMI 2.0\bin\Debug\BMI 2.0.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\BMI 2.0\BMI 2.0\obj\Debug\BMI 2.0.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\BMI 2.0\BMI 2.0\obj\Debug\BMI 2.0.pdb

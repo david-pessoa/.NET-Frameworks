@@ -1,0 +1,8 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Conversor de temperaturas\Conversor de temperaturas\bin\Debug\Conversor de temperaturas.exe.config
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Conversor de temperaturas\Conversor de temperaturas\bin\Debug\Conversor de temperaturas.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Conversor de temperaturas\Conversor de temperaturas\bin\Debug\Conversor de temperaturas.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Conversor de temperaturas\Conversor de temperaturas\obj\Debug\Conversor de temperaturas.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Conversor de temperaturas\Conversor de temperaturas\obj\Debug\Conversor de temperaturas.csproj.SuggestedBindingRedirects.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Conversor de temperaturas\Conversor de temperaturas\obj\Debug\Conversor de temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Conversor de temperaturas\Conversor de temperaturas\obj\Debug\Conversor de temperaturas.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Conversor de temperaturas\Conversor de temperaturas\obj\Debug\Conversor de temperaturas.pdb

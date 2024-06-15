@@ -1,0 +1,8 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Entrada e Saída\Entrada e Saída\bin\Debug\Entrada e Saída.exe.config
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Entrada e Saída\Entrada e Saída\bin\Debug\Entrada e Saída.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Entrada e Saída\Entrada e Saída\bin\Debug\Entrada e Saída.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Entrada e Saída\Entrada e Saída\obj\Debug\Entrada e Saída.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Entrada e Saída\Entrada e Saída\obj\Debug\Entrada e Saída.csproj.SuggestedBindingRedirects.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Entrada e Saída\Entrada e Saída\obj\Debug\Entrada e Saída.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Entrada e Saída\Entrada e Saída\obj\Debug\Entrada e Saída.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Entrada e Saída\Entrada e Saída\obj\Debug\Entrada e Saída.pdb

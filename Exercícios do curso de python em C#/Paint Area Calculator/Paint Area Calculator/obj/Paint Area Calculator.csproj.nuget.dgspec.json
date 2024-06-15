@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wifi.MUBSP41149\\Documents\\David\\Curso C# e .NET\\Exercícios do curso de python em C#\\Paint Area Calculator\\Paint Area Calculator\\Paint Area Calculator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wifi.MUBSP41149\\Documents\\David\\Curso C# e .NET\\Exercícios do curso de python em C#\\Paint Area Calculator\\Paint Area Calculator\\Paint Area Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wifi.MUBSP41149\\Documents\\David\\Curso C# e .NET\\Exercícios do curso de python em C#\\Paint Area Calculator\\Paint Area Calculator\\Paint Area Calculator.csproj",
+        "projectName": "Paint Area Calculator",
+        "projectPath": "C:\\Users\\wifi.MUBSP41149\\Documents\\David\\Curso C# e .NET\\Exercícios do curso de python em C#\\Paint Area Calculator\\Paint Area Calculator\\Paint Area Calculator.csproj",
+        "packagesPath": "C:\\Users\\wifi.MUBSP41149\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wifi.MUBSP41149\\Documents\\David\\Curso C# e .NET\\Exercícios do curso de python em C#\\Paint Area Calculator\\Paint Area Calculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wifi.MUBSP41149\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

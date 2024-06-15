@@ -1,0 +1,15 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Modificadores\bin\Debug\net6.0\Modificadores.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Modificadores\bin\Debug\net6.0\Modificadores.deps.json
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Modificadores\bin\Debug\net6.0\Modificadores.runtimeconfig.json
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Modificadores\bin\Debug\net6.0\Modificadores.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Modificadores\bin\Debug\net6.0\Modificadores.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Modificadores\obj\Debug\net6.0\Modificadores.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Modificadores\obj\Debug\net6.0\Modificadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Modificadores\obj\Debug\net6.0\Modificadores.AssemblyInfoInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Modificadores\obj\Debug\net6.0\Modificadores.AssemblyInfo.cs
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Modificadores\obj\Debug\net6.0\Modificadores.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Modificadores\obj\Debug\net6.0\Modificadores.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Modificadores\obj\Debug\net6.0\refint\Modificadores.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Modificadores\obj\Debug\net6.0\Modificadores.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Modificadores\obj\Debug\net6.0\Modificadores.genruntimeconfig.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Modificadores\obj\Debug\net6.0\ref\Modificadores.dll

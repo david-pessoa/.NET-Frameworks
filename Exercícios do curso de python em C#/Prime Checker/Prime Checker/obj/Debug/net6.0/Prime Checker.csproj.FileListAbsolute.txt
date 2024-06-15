@@ -1,0 +1,15 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Prime Checker\Prime Checker\bin\Debug\net6.0\Prime Checker.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Prime Checker\Prime Checker\bin\Debug\net6.0\Prime Checker.deps.json
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Prime Checker\Prime Checker\bin\Debug\net6.0\Prime Checker.runtimeconfig.json
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Prime Checker\Prime Checker\bin\Debug\net6.0\Prime Checker.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Prime Checker\Prime Checker\bin\Debug\net6.0\Prime Checker.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Prime Checker\Prime Checker\obj\Debug\net6.0\Prime Checker.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Prime Checker\Prime Checker\obj\Debug\net6.0\Prime Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Prime Checker\Prime Checker\obj\Debug\net6.0\Prime Checker.AssemblyInfoInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Prime Checker\Prime Checker\obj\Debug\net6.0\Prime Checker.AssemblyInfo.cs
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Prime Checker\Prime Checker\obj\Debug\net6.0\Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Prime Checker\Prime Checker\obj\Debug\net6.0\Prime Checker.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Prime Checker\Prime Checker\obj\Debug\net6.0\refint\Prime Checker.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Prime Checker\Prime Checker\obj\Debug\net6.0\Prime Checker.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Prime Checker\Prime Checker\obj\Debug\net6.0\Prime Checker.genruntimeconfig.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Prime Checker\Prime Checker\obj\Debug\net6.0\ref\Prime Checker.dll

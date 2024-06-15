@@ -1,0 +1,15 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\High Score\High Score\obj\Debug\net6.0\High Score.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\High Score\High Score\obj\Debug\net6.0\High Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\High Score\High Score\obj\Debug\net6.0\High Score.AssemblyInfoInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\High Score\High Score\obj\Debug\net6.0\High Score.AssemblyInfo.cs
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\High Score\High Score\obj\Debug\net6.0\High Score.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\High Score\High Score\bin\Debug\net6.0\High Score.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\High Score\High Score\bin\Debug\net6.0\High Score.deps.json
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\High Score\High Score\bin\Debug\net6.0\High Score.runtimeconfig.json
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\High Score\High Score\bin\Debug\net6.0\High Score.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\High Score\High Score\bin\Debug\net6.0\High Score.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\High Score\High Score\obj\Debug\net6.0\High Score.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\High Score\High Score\obj\Debug\net6.0\refint\High Score.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\High Score\High Score\obj\Debug\net6.0\High Score.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\High Score\High Score\obj\Debug\net6.0\High Score.genruntimeconfig.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\High Score\High Score\obj\Debug\net6.0\ref\High Score.dll

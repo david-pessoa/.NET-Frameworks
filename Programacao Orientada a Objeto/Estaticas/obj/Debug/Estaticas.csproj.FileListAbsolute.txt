@@ -1,0 +1,8 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Estaticas\bin\Debug\Estaticas.exe.config
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Estaticas\bin\Debug\Estaticas.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Estaticas\bin\Debug\Estaticas.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Estaticas\obj\Debug\Estaticas.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Estaticas\obj\Debug\Estaticas.csproj.SuggestedBindingRedirects.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Estaticas\obj\Debug\Estaticas.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Estaticas\obj\Debug\Estaticas.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Programacao Orientada a Objeto\Estaticas\obj\Debug\Estaticas.pdb

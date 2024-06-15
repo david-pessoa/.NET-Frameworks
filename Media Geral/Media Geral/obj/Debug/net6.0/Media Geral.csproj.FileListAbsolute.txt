@@ -1,0 +1,15 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Media Geral\Media Geral\bin\Debug\net6.0\Media Geral.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Media Geral\Media Geral\bin\Debug\net6.0\Media Geral.deps.json
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Media Geral\Media Geral\bin\Debug\net6.0\Media Geral.runtimeconfig.json
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Media Geral\Media Geral\bin\Debug\net6.0\Media Geral.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Media Geral\Media Geral\bin\Debug\net6.0\Media Geral.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Media Geral\Media Geral\obj\Debug\net6.0\Media Geral.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Media Geral\Media Geral\obj\Debug\net6.0\Media Geral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Media Geral\Media Geral\obj\Debug\net6.0\Media Geral.AssemblyInfoInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Media Geral\Media Geral\obj\Debug\net6.0\Media Geral.AssemblyInfo.cs
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Media Geral\Media Geral\obj\Debug\net6.0\Media Geral.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Media Geral\Media Geral\obj\Debug\net6.0\Media Geral.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Media Geral\Media Geral\obj\Debug\net6.0\refint\Media Geral.dll
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Media Geral\Media Geral\obj\Debug\net6.0\Media Geral.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Media Geral\Media Geral\obj\Debug\net6.0\Media Geral.genruntimeconfig.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Media Geral\Media Geral\obj\Debug\net6.0\ref\Media Geral.dll

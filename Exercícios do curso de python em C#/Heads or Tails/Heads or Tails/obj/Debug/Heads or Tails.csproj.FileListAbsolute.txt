@@ -1,0 +1,8 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Heads or Tails\Heads or Tails\bin\Debug\Heads or Tails.exe.config
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Heads or Tails\Heads or Tails\bin\Debug\Heads or Tails.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Heads or Tails\Heads or Tails\bin\Debug\Heads or Tails.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.csproj.SuggestedBindingRedirects.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Exercícios do curso de python em C#\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.pdb

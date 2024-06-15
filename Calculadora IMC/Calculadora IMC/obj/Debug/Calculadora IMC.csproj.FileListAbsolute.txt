@@ -1,0 +1,8 @@
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe.config
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.pdb
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.AssemblyReference.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.CoreCompileInputs.cache
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.exe
+C:\Users\wifi.MUBSP41149\Documents\David\Curso C# e .NET\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.pdb
